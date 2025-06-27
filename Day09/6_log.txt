@@ -1,0 +1,4 @@
+[2025-06-26 20:39:20,793] [INFO]: [6_logger.cpp:76:main] info message.
+[2025-06-26 20:39:20,794] [DEBUG]: [6_logger.cpp:77:main] debug message.
+[2025-06-26 20:39:20,794] [WARN]: [6_logger.cpp:78:main] warning message.
+[2025-06-26 20:39:20,794] [ERROR]: [6_logger.cpp:79:main] error message.
